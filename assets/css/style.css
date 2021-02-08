@@ -1,0 +1,126 @@
+html, body {
+	background-color: #efcece;
+	font-family: 'Montserrat', sans-serif;
+	color: #020004;
+	font-size: 17px;
+	overflow-x: hidden;
+	width: 100%;
+	height: 100%;
+}
+
+.navbar-inverse {
+background-color: #1f1b1b;
+}
+
+h1 {
+	color: white;
+    font-family: 'Roboto', sans-serif;
+	text-align: center;
+
+}
+
+@media (max-width: 767px) {
+	.nav-pills>li {
+		float: none;
+	}
+
+	.nav-pills {
+		text-align: center;
+	}
+}
+
+ul.nav nav-pills, li {
+	list-style-type: none;
+	padding-top: 40px;
+	padding-bottom: 10px;
+}
+
+.nav-pills>li.active>a:hover {
+	 text-decoration: none;
+    background-color: #d64d4d;
+}
+
+.nav>li>a:hover {
+    text-decoration: none;
+    background-color: #d64d4d;
+}
+
+.nav-pills>li.active>a:focus {
+	text-decoration: none;
+	background-color: #9a092b;
+}
+
+.nav>li>a:focus {
+	text-decoration: none;
+	background-color: #9a092b;
+}
+
+a, a:hover, a:focus {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+.Davtyan, .Davtyan2 {
+width: 100%; 
+height: auto;
+border: 3px solid #5d5455;
+border-radius: 5px;
+}
+
+footer {
+	background-color: #1f1b1b;
+	color: white;
+	border: 1px solid black;
+
+}
+
+a.Rafik:hover {
+	color: #d64d4d;
+	text-decoration: underline;
+}
+
+a.Rafik:focus {
+	color: red;
+	text-decoration: underline;
+}
+
+a.Profi:hover {
+	color: #d64d4d;
+	text-decoration: underline;
+}
+
+a.Profi:focus {
+		color: red;
+	text-decoration: underline;
+}
+
+
+
+.reviews_block img {
+	margin-bottom: 20px;
+	margin-top: 30px;
+	border-radius: 5px;
+	border: 1px solid #5d5455;;
+}
+
+img.mg-review {
+	width: 100%;
+	height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

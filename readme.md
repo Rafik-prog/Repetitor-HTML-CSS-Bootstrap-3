@@ -1,0 +1,1 @@
+More improved version of the project with the addition of the Bootstrap 3 framework
